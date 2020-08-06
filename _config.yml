@@ -2,39 +2,34 @@
 title: Casualidade # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://casualidade.tk/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: PeSader
+  name: Pedro Sader Azevedo
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
+    - https://www.facebook.com/pedro.azevedo.52831666
     - https://www.linkedin.com/in/BenBalter
     - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    - https://github.com/PeSader
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Início', link: '/'}
-  - {name: 'Sobre', link: '/sobre'}
-  - {name: 'Contato', link: '/contato'}
+  - {name: 'Propósito', link: '/proposito'}
+  - {name: 'Autor', link: '/autor'}
 
 tagline: >
-  Impressões pessoais de um estudante a deriva
+  Considerações de um amante das Humanas, casado com as Exatas
 
-hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/books.jpeg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: your-email@domain.com # email for form submission
+email: casualidadeblog@gmail.com # email for form submission
 
-twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+#twitter_username: None # replace with your_twitter_username or comment to remove link from footer
+#github_username:  PeSader # replace with your_github_username or comment to remove link from footer
+#instagram_username: pe.sader # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: janczizikow # to enable comments replace with your_disqus_shortname
