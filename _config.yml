@@ -6,7 +6,7 @@ description: > # Meta description of Homepage
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/casualidade" # the subpath of your site, e.g. /blog
-url: "https://janczizikow.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pesader.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
@@ -21,12 +21,12 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Início', link: '/'}
+  - {name: 'Sobre', link: '/sobre'}
+  - {name: 'Contato', link: '/contato'}
 
 tagline: >
-  Impressões pessoais de um jovem vestibulando TESTE 1
+  Impressões pessoais de um estudante a deriva
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
@@ -46,7 +46,7 @@ service_worker: true
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge # or pygments or null
-theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+#theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
   - node_modules
@@ -58,7 +58,7 @@ exclude:
   - vendor
   - npm-debug.log
   - gulpfile.js
-#  - sleek.jpg
+  - sleek.jpg
 
 include: ['_pages']
 permalink: /:title/
