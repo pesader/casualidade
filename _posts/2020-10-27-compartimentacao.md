@@ -1,7 +1,7 @@
-    ---
-    layout: post
-    title: Compartimentação: o princípio mais importante para privacidade e segurança digital
-    ---
+---
+layout: post
+title: Compartimentação: o princípio mais importante para privacidade e segurança digital
+---
 
 O advento da maior crise de saúde pública do século XXI trouxe consigo a
 necessidade de nos isolarmos fisicamente uns dos outros, movendo todos
@@ -157,8 +157,8 @@ serviços melhores.
 Compartimentação de Credenciais
 -------------------------------
 
-![Image](25ffe3f89bc04681a2f659077b486962.png)
+![Image](https://i.imgur.com/JP4eZPN.png)
 
-![Image](ce183179e26d4c1183776c90ec54c96a.png)
+![Image](https://i.imgur.com/ag6Auwz.png)
 
-![Image](0ea3a57572674e67acab98958803424c.png)
+![Image](https://i.imgur.com/xUZhxqs.png)
