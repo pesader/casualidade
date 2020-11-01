@@ -8,10 +8,8 @@ url: "https://casualidade.tk/" # the base hostname & protocol for your site, e.g
 
 # SEO PLUGIN
 social:
-  name: Pedro Sader Azevedo
+  name: PeSader
   links:
-    - https://www.facebook.com/pedro.azevedo.52831666
-    - https://www.linkedin.com/in/pedro-sader-azevedo-a40303194/
     - https://github.com/PeSader
 
 # THEME SETTINGS
